@@ -14,9 +14,9 @@ The current design is made simple with Troughhole
 ### The licence is creative commons CC-BY-SA
 
 Work based on
-JUNE TATE GANS
-june@theonelab.com
-https://github.com/jtgans/PS2FF
+- JUNE TATE GANS
+- june@theonelab.com
+- https://github.com/jtgans/PS2FF
 
 
 ###This is the first release, small todo: 
